@@ -1,4 +1,4 @@
-## Seja bem-vindo! Me chamo Pamela Layane sou desenvolvedora web e escritora, sonho ser instrutora front-end e empreendedora.❤️ 👩‍💻
+## Seja bem-vindo! Me chamo Pamela Layane sou desenvolvedora web e escritora. Sonho ser instrutora front-end e empreendedora!❤️ 👩‍💻
 <div align="center">
 <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
