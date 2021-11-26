@@ -2,7 +2,7 @@
  
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://i.pinimg.com/originals/c4/90/ca/c490ca0a25bc300089e784e635ff465f.gif)
 
-## Seja bem-vindo! Me chamo Pamela Layane sou desenvolvedora web e escritora. Sonho ser instrutora front-end e empreendedora!❤️ 👩‍💻
+## Seja bem-vindo!❤️ 👩‍💻
 <div align="center">
 <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
