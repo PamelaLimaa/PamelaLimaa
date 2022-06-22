@@ -3,14 +3,6 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://i.pinimg.com/originals/c4/90/ca/c490ca0a25bc300089e784e635ff465f.gif)
 
 ## Seja bem-vindo!❤️ 👩‍💻
-<div align="center">
-<img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src = "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
-<img src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</div>
  <br>
 <div align="center">
   <a href="https://github.com/PamelaLimaa">
